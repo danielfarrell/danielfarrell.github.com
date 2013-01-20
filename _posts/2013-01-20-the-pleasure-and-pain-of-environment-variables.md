@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The pleasure and pain of environment variables"
-description: ""
+title: "The Pleasure and Pain of Environment Variables"
+tagline: "Making them work for you"
 category: 
 tags: []
 ---

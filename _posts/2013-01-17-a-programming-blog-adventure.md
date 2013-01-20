@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Programming Blog Adventure"
-description: "Intro Post"
+tagline: "Welcome/Intro Post"
 category: 
 tags: []
 ---

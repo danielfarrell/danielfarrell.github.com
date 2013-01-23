@@ -15,7 +15,7 @@ I am Daniel Farrell.  I'm the Lead Application Developer at [Weinstein Propertie
 
 ## Twelve Factor Coolaid
 
-Since finding out about the Twelve-Factor App I've been pushing those ideas in our space. We are giving a lot of freedom in how we do things, so it has been possible. I've drank the coolaid, I'm a convert.
+Since finding out about the Twelve-Factor App I've been pushing those ideas in our space. We are given a lot of freedom in how we do things, so it has been possible. I've drank the coolaid, I'm a convert.
 
 ## What to expect
 

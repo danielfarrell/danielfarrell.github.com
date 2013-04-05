@@ -25,7 +25,7 @@ And there are some deployment pains as well. We have some apps that run under Pa
 
 After a co-dev went on a rant one day about the pain involved, I set out to come up with a solution to this. From that [redis_vars](https://github.com/danielfarrell/redis_vars) was born. It allows you to have a central store of environment variables on a redis server. If you get everyone on your team to use it and share a redis database(redistogo for distributed teams) it will solve the development pains. But you can also use it to have a central store of environment variables for production. We are moving to running our apps with unicorn, and starting them in production with redis_vars. One of our Procfile's looks like this:
 
-    web: redis_vars bin/unicorn_rails -c config/unicorn.rb
+    web: redis_vars bin/unicorn -c config/unicorn.rb
 
 Command line jobs run like this:
 
